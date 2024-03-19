@@ -1,0 +1,3 @@
+name: infra-ts
+runtime: nodejs
+description: Talos k8s config

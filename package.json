@@ -1,0 +1,1 @@
+{ "dependencies": { "@muhlba91/pulumi-proxmoxve": "^5.15.0" } }

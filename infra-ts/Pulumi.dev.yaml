@@ -1,0 +1,13 @@
+config:
+  infra-ts:proxmox-api-token:
+    secure: AAABAB616ua91Op7ho4f+IXFPp3GJG5hnr5seK9MsmGUjxS9ZmqFo7isyoIXIXgAj1vHUm20YvdGMSAXcGbZsVcKU0bDWsXuz8Ps5BLEt9pfhQ3k+S0=
+  infra-ts:proxmox-endpoint:
+    secure: AAABACdZ/mdrd8vdCGNJVb3Q+gnlDjBLqnkpX0rOaKMr5uERfjTetNar9qD6QCX6Dg/7Cjsi5y7rU0alhCk1dNZeMEc=
+  infra-ts:proxmox-password:
+    secure: AAABADect/AeNSW3ZbyGMU1Vcx7oIJvG18JGJVxtQEDfQNgT+iIW/McxaA==
+  infra-ts:proxmox-private-key:
+    secure: AAABAO7wZV7HeN8FhQJ3Znei3Y/gCiKFId1lMN/O9nZlamUR3WOh3As5x0i9f1yAlu0uqI9vgw22PcSV/ZUL9mC1fJPjEvyFn1spTMRuRgt+FxkM7iIz+/7AviPAoIOxuJ28AfkESh0t7FnWs+67Bc0qg9llJkk2sjvh8k8ipoV8a+6m5eyDLKOUM/gx1JF0ictDJuLjCQ85dkk8gkFkISdajJ6KWmjtJfxSlyBjnCiqhfrQ+BRCysC7h96cCOvapBCyBrfim8VGP6UKDVMk9RLdwXAt4AdKRpw1/+lEA//rkmLJBs6YniDE/Nom4lXB8mU2YHZEyyeBNaYtdM8ArChCAreBR9net7FU0K6xDP7ZJfBr6QNjsxSba5+EopJHmES1zGiGnsB4pVgrER+VGJjaqYtWsKeTWntZoQ9+wSZv2tqmKwdlc6zVGkAzRdjFz3/7N48okr4VSsLlp1NR8A8AGa8uAMma0tnQbDa0nGmDmEpsnptQsRArBmaKq1XFwrZrXjGWqa4+EGvVyBQhCu7MWz8iI+m2yLHN27cm0QyaMZVTCrnT0/3/OeS3wklgf65thSmOgxw3yA==
+  infra-ts:proxmox-username:
+    secure: AAABAJgayVbLoR5cXClfVO7w7t5FHxOp+eXTrN4114Lkl1MzYpDdbw==
+  infra-ts:talos-version: 1.5.5
+  infra-ts:talos-vip: 192.168.5.100

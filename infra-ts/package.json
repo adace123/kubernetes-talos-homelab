@@ -1,0 +1,16 @@
+{
+  "name": "infra-ts",
+  "main": "index.ts",
+  "devDependencies": {
+    "@types/node": "^16"
+  },
+  "dependencies": {
+    "@muhlba91/pulumi-proxmoxve": "^5.17.0",
+    "@pulumi/command": "^0.9.2",
+    "@pulumi/libvirt": "^0.4.1",
+    "@pulumi/pulumi": "^3.0.0",
+    "@pulumi/tls": "^4.11.1",
+    "@pulumiverse/talos": "^0.1.4",
+    "yaml": "^2.3.4"
+  }
+}
